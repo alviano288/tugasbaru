@@ -1,0 +1,31 @@
+body {
+    background-color: aquamarine;
+    font-family: monospace;
+}
+.container {
+    width: 415px;
+    background-color: white;
+    margin: 100px auto;
+}
+table {
+    width: 100px;
+    border-color: brown;
+}
+td {
+    width: 25%;
+}
+button {
+    width: 100px;
+    height: 70px;
+    font-size: 30px;
+    background-color: white;
+    border: none;
+}
+#hasil {
+    height: 100px;
+    font-size: 50px;
+    vertical-align: bottom;
+    text-align: right;
+    background-color: white;
+    padding-right: 10px;
+}
